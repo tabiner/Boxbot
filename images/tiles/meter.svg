@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60">
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0%" stop-color="white" />
+    <stop offset="100%" stop-color="#cccccc" />
+  </linearGradient>
+  <circle cx="30" cy="30" r="25" stroke-width="4" fill="url(#g)" stroke="black" />
+  <polygon points="25,35 35,35 30,12" fill="red" />
+</svg>

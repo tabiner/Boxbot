@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="100">
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0%" stop-color="#aaaaaa" />
+    <stop offset="100%" stop-color="#222222" />
+  </linearGradient>
+  <polygon points="15,15 70,50 15,85" stroke-width="15" fill="black" stroke="black" stroke-linejoin="round" />
+  <polygon points="15,15 70,50 15,85" stroke-width="5" fill="url(#g)" stroke="url(#g)" stroke-linejoin="round" />
+  <text x="100" y="75" font-size="70" font-family="Verdana">True Final</text>
+  <line x1="100" y1="100" x2="440" y2="100" stroke="black" stroke-width="10" />
+</svg>

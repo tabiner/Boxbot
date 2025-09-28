@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <rect x="0" y="0" width="100" height="100" fill="#fafad2" />
+  <polygon points="25,10 10,25 25,40 40,25" fill="white" />
+  <polygon points="75,10 60,25 75,40 90,25" fill="white" />
+  <polygon points="25,60 10,75 25,90 40,75" fill="white" />
+  <polygon points="75,60 60,75 75,90 90,75" fill="white" />
+</svg>
