@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>play - BoxBot</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel='stylesheet' href='style.css'>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <canvas id="myCanvas" class="playCanvas" width="960" height="640"></canvas><br>
+
+    <input type="text" id="a"><input type="button" value="load" onclick="loadLevel(JSON.parse(getElementById('a').value));">
+    <br>
+
+    <p class="story">
+      In 2025, the world will enter an era in which robots will be prevalent in every household. 
+      Dr. Pencil has developed a convenient factory transport robot that makes full use of the latest technology at the time. 
+      Until then, robots were not yet able to think and move on their own, but this robot was created to be able to do so. 
+      It's very difficult to think for yourself and you have to be able to safely pass through every part of the factory. 
+      This robot was one of those prototypes. 
+      This robot needs to pass many tests to prove it is perfect.
+    </p>
+    <object data="memo.txt" type="text/plain"></object>
+
+    <script src="javascript/define.js"></script>
+    <script src="javascript/main.js"></script>
+    <script src="javascript/play.js"></script>
+  </body>
+</html>

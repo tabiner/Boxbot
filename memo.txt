@@ -1,0 +1,58 @@
+BoxRobot by FBR (OmitGames)
+
+Credit
+
+images
+    いらすとや
+        floppy disk https://www.irasutoya.com/2017/10/blog-post_408.html
+        glassware https://www.irasutoya.com/2014/10/blog-post_29.html
+
+    Gunmetal font by cooltext https://ja.cooltext.com/Logo-Design-Gunmetal
+
+    Pixelify Sans by Stefie Justprince https://fonts.google.com/specimen/Pixelify+Sans/about?preview.text=Last%20stage%20cleared&query=pixel
+        https://openfontlicense.org/
+
+    tools by peko-step
+    https://www.peko-step.com/tool/resize.html
+    https://www.peko-step.com/tool/alphachannel.html
+
+    taco image by twemoji https://github.com/twitter/twemoji/blob/master/assets/svg/1f32e.svg (Licensed under CC BY 4.0)
+
+music
+    魔王魂
+    Home https://maou.audio/game_field02/
+    Basic https://maou.audio/game_village06/
+    Hard https://maou.audio/bgm_cyber41/
+    Final Challenges https://maou.audio/bgm_orchestra25/
+
+    Tutorial LCM30
+    chrome music lab
+    https://musiclab.chromeexperiments.com/Song-Maker/song/6480099856220160
+
+    PIXABAY
+    True Final 
+        World Tour 3 by LBDL
+        https://pixabay.com/ja/music/world-tour-3-205663/
+    Ending
+        Chill Abstract (Intention) by Coma-media 
+        https://pixabay.com/ja/music/chill-abstract-intention-12099/
+
+sounds
+    魔王魂
+        https://maou.audio/se_sound_paper01/
+
+        https://maou.audio/se_system38/
+        https://maou.audio/se_system44/
+        https://maou.audio/se_system41/
+
+        https://maou.audio/se_system46/
+        https://maou.audio/se_system31/
+        https://maou.audio/se_system49/
+        https://maou.audio/se_system42/
+        ジャンプ音：魔王魂から取ってきたのは覚えてるけどURL取り忘れた
+    効果音ラボ
+        ガラスが割れる2 https://soundeffect-lab.info/sound/battle/
+    PIXABAY
+        https://pixabay.com/ja/sound-effects/success-1-6297/
+
+CC 4.0: https://creativecommons.org/licenses/by/4.0/

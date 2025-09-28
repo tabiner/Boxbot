@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>editor - BoxBot</title>
+    <link rel='stylesheet' href='style.css'>
+  </head>
+  <body>
+    <canvas id="myCanvas" class="editorCanvas" width="960" height="640"></canvas><br>
+    <label><input type="checkbox" id="grid">grid</label>
+    <div id="palette" class="palette"></div><br>
+    <h2 id="elem">Num: 0</h2><br>
+    <span><input type="button" value="<" id="p1"><span id="plateNum">-1</span><input type="button" value=">" id="p2"></span>
+    <br><br>
+    <input type="text" id="command">
+    <input type="button" value="enter" id="commandbutton">
+    <br><br><br><br><br><br>
+
+    <input type="text" id="loadtext">
+    <input type="button" value="load" id="load">
+    <input type="button" value="copy" id="copy">
+    copyarea:<br>
+    <span class="copyarea" id="copyarea"></span>
+
+    <br><br><br>
+    <span>
+    <input class="movebuttons" type="button" value=" ↑ " onclick="camera_y -= GRID*2">
+    <input class="movebuttons" type="button" value=" ↓ " onclick="camera_y += GRID*2">
+    <input class="movebuttons" type="button" value=" ← " onclick="camera_x -= GRID*2">
+    <input class="movebuttons" type="button" value=" → " onclick="camera_x += GRID*2">
+    </span>
+
+    <script src="javascript/define.js"></script>
+    <script src="javascript/main.js"></script>
+    <script src="javascript/editor.js"></script>
+  </body>
+</html>
